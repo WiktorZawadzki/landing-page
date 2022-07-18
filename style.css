@@ -1,0 +1,41 @@
+* {
+    font-family: roboto;
+}
+
+#header {
+    background-color: #1F2937;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    margin-left: 5%;
+}
+
+.one{
+    margin-left: auto;
+}
+
+.two{
+    margin-left: 5%;
+}
+
+.three{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.one, .two, .three {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.awesome {
+    align-items: flex-start;
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
